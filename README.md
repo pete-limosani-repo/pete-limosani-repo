@@ -4,13 +4,13 @@
 
 This github contains four repositories: 
 
-_song_pursuit_ - My first full scale flutter app… It helps music groups build their repertoire. This app was created before I learned bloc and clean architure, so you can see the early growth in my Flutter learning.
+*_song_pursuit_* - My first full scale flutter app… It helps music groups build their repertoire. This app was created before I learned bloc and clean architure, so you can see the early growth in my Flutter learning.
 
-_sound_apps_core_ - From the next two apps, I pulled all the refactorable stuff up into a common library.
+*_sound_apps_core_* - From the next two apps, I pulled all the refactorable stuff up into a common library.
 
-_fiddle_tune_of_the_month_ - Helps musicians master 12 new fiddle tunes in a year.
+*_fiddle_tune_of_the_month_* - Helps musicians master 12 new fiddle tunes in a year.
 
-_whispered_recipes_ - My first paying gig as a flutter engineer. Recipe sharing app with a tilt toward familial favorites.
+*_whispered_recipes_* - My first paying gig as a flutter engineer. Recipe sharing app with a tilt toward familial favorites.
 
 All four apps will run on iOS or Android. They have not ben fully tested on any other platform. All four app repo contain a README.MD with details about the app, how to use it, and a discussion of how I leveraged Flutter/Dart technologies.
 
